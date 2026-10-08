@@ -1,0 +1,24 @@
+{
+    "sakshi_10": {
+        "student_id": "sakshi_10",
+        "name": "sakshi yadav",
+        "education": "B.Tech Computer Science",
+        "branch": "Computer Science & Engineering (CSE)",
+        "skills": "java , python , c , html , css",
+        "interests": "data science",
+        "preferred_domain": "Data Science",
+        "difficulty": "Medium",
+        "password": "64df5cb1ebe8f24b49044a7467fafef5d379aa23b8555ebdfbf35785f9bf26b7"
+    },
+    "sneha_10": {
+        "student_id": "sneha_10",
+        "name": "sneha singh",
+        "education": "B.Tech Computer Science",
+        "branch": "Artificial Intelligence & Data Science",
+        "skills": "python , ai and ml , java , c , pandas , ",
+        "interests": "AIML",
+        "preferred_domain": "Artificial Intelligence",
+        "difficulty": "Medium",
+        "password": "a404c0b86388e9fe576d398b1866945c9228e2ebcc3f62dea7cad19c9a332646"
+    }
+}

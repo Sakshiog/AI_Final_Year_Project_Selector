@@ -1,0 +1,165 @@
+project_id,title,description,branch,domain,technologies,difficulty,trend_score
+P001,AI Resume Screening System,An AI system that analyzes resumes and matches candidates with suitable job opportunities,CSE,Artificial Intelligence,"Python,NLP,Scikit-learn,Pandas",Medium,92
+P002,Fake News Detection System,A machine learning system that detects whether online news articles are fake or genuine,CSE,Natural Language Processing,"Python,NLP,TF-IDF,Scikit-learn",Medium,89
+P003,Online Examination System,A secure web-based platform for conducting online examinations and evaluating results,CSE,Web Development,"Python,Flask,HTML,CSS,SQL",Medium,84
+P004,College Management System,A software system for managing students courses attendance and academic records,CSE,Web Development,"Python,Django,HTML,CSS,SQL",Medium,82
+P005,AI Chatbot,An intelligent chatbot that understands user queries and provides relevant responses,CSE,Natural Language Processing,"Python,NLP,NLTK,Flask",Medium,91
+P006,Cybersecurity Threat Detection System,A machine learning system that identifies suspicious network activities and cyber threats,CSE,Cybersecurity,"Python,Machine Learning,Scikit-learn,Networking",Hard,95
+P007,Face Recognition Attendance System,A computer vision system that automatically records student attendance using face recognition,CSE,Computer Vision,"Python,OpenCV,Face Recognition,Machine Learning",Medium,90
+P008,Smart E-Learning Platform,An online learning platform providing personalized educational content and progress tracking,CSE,E-Learning,"Python,Flask,HTML,CSS,JavaScript,SQL",Medium,87
+P009,Source Code Plagiarism Detector,A system that detects similarity and plagiarism between programming source codes,CSE,Software Engineering,"Python,NLP,Scikit-learn,AST",Hard,88
+P010,AI-Based Bug Detection System,A machine learning system that predicts potential software bugs from source code,CSE,Software Engineering,"Python,Machine Learning,NLP,Scikit-learn",Hard,93
+
+P011,Disease Prediction System,An AI system that predicts possible diseases based on patient symptoms and medical data,AI & Data Science,Healthcare AI,"Python,Machine Learning,Pandas,Scikit-learn",Hard,94
+P012,Customer Churn Prediction,A machine learning system that predicts customers who are likely to leave a service,AI & Data Science,Data Science,"Python,Pandas,Scikit-learn,Machine Learning",Medium,85
+P013,Movie Recommendation System,A personalized recommendation system that suggests movies based on user preferences and behavior,AI & Data Science,Recommendation Systems,"Python,Pandas,Scikit-learn,Recommendation Algorithms",Medium,90
+P014,AI Fraud Detection System,A machine learning system that identifies suspicious and fraudulent financial transactions,AI & Data Science,Financial AI,"Python,Pandas,Scikit-learn,Machine Learning",Hard,96
+P015,House Price Prediction System,A machine learning model that predicts house prices using property and location features,AI & Data Science,Predictive Analytics,"Python,Pandas,Scikit-learn,NumPy",Easy,82
+P016,Student Performance Prediction,A machine learning system that predicts student academic performance using historical data,AI & Data Science,Education AI,"Python,Pandas,Machine Learning,Scikit-learn",Easy,78
+P017,Sales Forecasting System,A data science system that predicts future product sales using historical sales data,AI & Data Science,Business Analytics,"Python,Pandas,NumPy,Scikit-learn",Medium,86
+P018,Customer Segmentation System,A clustering system that groups customers based on purchasing behavior,AI & Data Science,Data Science,"Python,Pandas,Scikit-learn,K-Means",Medium,88
+P019,Loan Default Prediction,A machine learning system that predicts the probability of loan default,AI & Data Science,Financial AI,"Python,Pandas,Scikit-learn,Machine Learning",Hard,94
+P020,Sentiment Analysis System,A natural language processing system that identifies sentiment from customer reviews,AI & Data Science,NLP,"Python,NLP,NLTK,TF-IDF,Scikit-learn",Medium,91
+
+P021,Job Portal Management System,A web application connecting job seekers with employers and job opportunities,IT,Web Development,"Python,Flask,HTML,CSS,SQL",Medium,88
+P022,Hospital Management System,A software system for managing patients doctors appointments and medical records,IT,Healthcare Software,"Python,Django,HTML,CSS,SQL",Medium,87
+P023,Inventory Management System,A system for tracking products stock levels suppliers and sales,IT,Enterprise Software,"Python,Flask,SQL,HTML,CSS",Easy,80
+P024,Online Banking Management System,A secure web application for managing banking accounts transactions and customer services,IT,FinTech,"Python,Django,SQL,HTML,CSS",Hard,92
+P025,Cloud File Storage System,A web-based system for securely uploading storing and sharing files,IT,Cloud Computing,"Python,Flask,Cloud Storage,HTML,CSS",Medium,90
+P026,Online Food Ordering System,A web application for browsing food items placing orders and tracking deliveries,IT,E-Commerce,"Python,Django,SQL,HTML,CSS,JavaScript",Medium,84
+P027,Employee Management System,A software platform for managing employee profiles attendance salaries and departments,IT,Enterprise Software,"Python,Django,SQL,HTML,CSS",Medium,79
+P028,Smart Event Management System,A web application for managing event registrations schedules participants and notifications,IT,Web Development,"Python,Flask,HTML,CSS,JavaScript,SQL",Easy,81
+P029,Digital Library Management System,A system for managing books members borrowing records and digital resources,IT,Information Systems,"Python,Django,SQL,HTML,CSS",Easy,76
+P030,AI-Based Helpdesk System,An intelligent helpdesk that automatically categorizes and responds to user support requests,IT,AI Software,"Python,NLP,Scikit-learn,Flask",Hard,93
+
+P031,IoT Home Automation System,An IoT system that allows users to remotely monitor and control household appliances,ECE,Internet of Things,"Arduino,ESP32,IoT,Python",Medium,91
+P032,Smart Attendance System,An electronic attendance system using RFID or biometric identification,ECE,Embedded Systems,"Arduino,RFID,Embedded C,IoT",Medium,87
+P033,Wireless Patient Monitoring System,A system that continuously monitors patient vital signs and sends data wirelessly,ECE,Healthcare IoT,"ESP32,IoT,Sensors,Python",Hard,94
+P034,Smart Agriculture Monitoring System,An IoT system that monitors soil moisture temperature humidity and crop conditions,ECE,IoT Agriculture,"Arduino,ESP32,Sensors,IoT",Medium,93
+P035,Fire Detection and Alert System,A sensor-based system that detects fire and sends immediate alerts,ECE,Embedded Systems,"Arduino,Gas Sensor,Temperature Sensor,Embedded C",Easy,84
+P036,Smart Parking System,An automated parking system that detects available parking spaces,ECE,IoT,"Arduino,Ultrasonic Sensor,IoT,Embedded C",Medium,89
+P037,RFID-Based Security System,A security system that uses RFID cards for controlled access,ECE,Embedded Security,"Arduino,RFID,Embedded C",Easy,80
+P038,Smart Energy Monitoring System,An IoT system for monitoring household electricity consumption,ECE,Energy IoT,"ESP32,IoT,Sensors,Python",Medium,91
+P039,Accident Detection and Alert System,A system that detects vehicle accidents and sends emergency alerts,ECE,Embedded Systems,"Arduino,GPS,GSM,Accelerometer",Hard,95
+P040,IoT Air Quality Monitoring System,A sensor-based system that monitors air pollution and environmental conditions,ECE,Environmental IoT,"ESP32,Air Quality Sensor,IoT,Python",Medium,94
+
+P041,Smart Energy Meter,A digital system for monitoring and analyzing electricity consumption,Electrical Engineering,Smart Grid,"Arduino,ESP32,IoT,Electrical Sensors",Medium,92
+P042,Power Consumption Prediction System,A machine learning system that predicts future electricity consumption,Electrical Engineering,Energy Analytics,"Python,Pandas,Scikit-learn,Machine Learning",Hard,95
+P043,Electricity Theft Detection System,A system that detects abnormal electricity usage patterns indicating possible theft,Electrical Engineering,Power Systems,"Python,Machine Learning,Pandas,Scikit-learn",Hard,94
+P044,Solar Power Monitoring System,A monitoring system that tracks solar panel power generation and performance,Electrical Engineering,Renewable Energy,"Arduino,IoT,Sensors,Python",Medium,91
+P045,Solar Panel Fault Detection,A system that identifies faults and performance problems in solar panels,Electrical Engineering,Renewable Energy,"Python,Machine Learning,IoT,Sensors",Hard,93
+P046,Automatic Power Factor Correction System,A system that automatically improves electrical power factor,Electrical Engineering,Power Electronics,"Arduino,Microcontroller,Power Electronics",Hard,86
+P047,Smart Grid Load Forecasting,A system that predicts electrical load demand for smart grid management,Electrical Engineering,Smart Grid,"Python,Machine Learning,Pandas,Scikit-learn",Hard,96
+P048,EV Charging Station Management System,A system for monitoring and managing electric vehicle charging stations,Electrical Engineering,Electric Vehicles,"Python,IoT,ESP32,SQL",Medium,94
+P049,Battery Health Monitoring System,A system that monitors battery voltage temperature and health conditions,Electrical Engineering,Energy Storage,"Arduino,Sensors,Embedded C,IoT",Medium,92
+P050,Automatic Street Light System,A sensor-based system that automatically controls street lights based on environmental conditions,Electrical Engineering,Smart City,"Arduino,LDR,Embedded C,Sensors",Easy,78
+
+P051,Predictive Maintenance System,A machine learning system that predicts machine failures before they occur,Mechanical Engineering,Predictive Maintenance,"Python,Machine Learning,Pandas,Scikit-learn",Hard,96
+P052,Automated Manufacturing Monitoring System,A system for monitoring manufacturing machines and production performance,Mechanical Engineering,Smart Manufacturing,"Python,IoT,Sensors,Machine Learning",Hard,94
+P053,Machine Failure Prediction,A predictive model that identifies possible industrial machine failures,Mechanical Engineering,Industrial AI,"Python,Pandas,Scikit-learn,Machine Learning",Hard,95
+P054,CAD Design Optimization System,A software system for analyzing and optimizing mechanical component designs,Mechanical Engineering,CAD,"Python,CAD,Optimization Algorithms",Hard,86
+P055,Industrial Temperature Monitoring System,A sensor-based system for monitoring temperature in industrial machinery,Mechanical Engineering,Industrial IoT,"Arduino,Temperature Sensors,IoT",Easy,81
+P056,Robotic Arm Control System,A programmable robotic arm for automated industrial operations,Mechanical Engineering,Robotics,"Arduino,Servo Motors,Embedded C",Hard,93
+P057,Vehicle Component Stress Analysis,A system for analyzing stress distribution in mechanical components,Mechanical Engineering,Engineering Simulation,"Python,ANSYS,CAD,Simulation",Hard,88
+P058,Smart Production Planning System,A system that optimizes manufacturing schedules and production resources,Mechanical Engineering,Operations Research,"Python,Optimization,Machine Learning",Hard,90
+P059,Industrial Energy Optimization System,A system that analyzes and reduces energy consumption in manufacturing plants,Mechanical Engineering,Energy Optimization,"Python,Pandas,Machine Learning,IoT",Hard,92
+P060,Automated Quality Inspection System,A computer vision system for detecting manufacturing defects,Mechanical Engineering,Computer Vision,"Python,OpenCV,Machine Learning,Computer Vision",Hard,96
+
+P061,Smart Traffic Management System,An intelligent system that analyzes and manages traffic conditions,Civil Engineering,Smart City,"Python,Computer Vision,IoT,OpenCV",Hard,96
+P062,Construction Cost Prediction System,A machine learning model that predicts construction project costs,Civil Engineering,Construction Analytics,"Python,Pandas,Scikit-learn,Machine Learning",Medium,88
+P063,Building Safety Monitoring System,A sensor-based system for monitoring structural health and building safety,Civil Engineering,Structural Monitoring,"IoT,Sensors,Arduino,Python",Hard,93
+P064,Smart Water Management System,A system for monitoring water usage and detecting wastage,Civil Engineering,Water Management,"IoT,Python,Sensors,Data Analytics",Medium,92
+P065,Flood Prediction System,A data-driven system that predicts potential flooding using environmental data,Civil Engineering,Disaster Management,"Python,Pandas,Machine Learning,Scikit-learn",Hard,95
+P066,Earthquake Damage Prediction,A machine learning system that estimates potential building damage during earthquakes,Civil Engineering,Disaster Management,"Python,Machine Learning,Pandas,Scikit-learn",Hard,94
+P067,Smart Waste Management System,A system that monitors waste collection and optimizes collection routes,Civil Engineering,Smart City,"IoT,Python,Data Analytics,Optimization",Medium,91
+P068,Road Condition Monitoring System,A system that identifies damaged roads using images and sensor data,Civil Engineering,Transportation Engineering,"Python,OpenCV,Machine Learning,IoT",Hard,94
+P069,Air Pollution Monitoring System,A system that monitors and analyzes air quality around urban areas,Civil Engineering,Environmental Engineering,"Python,IoT,Sensors,Data Analytics",Medium,92
+P070,Building Energy Consumption Prediction,A machine learning model that predicts energy consumption of buildings,Civil Engineering,Green Building,"Python,Pandas,Scikit-learn,Machine Learning",Medium,91
+
+P071,Vehicle Accident Detection System,A system that automatically detects vehicle accidents and generates emergency alerts,Automobile Engineering,Vehicle Safety,"Python,OpenCV,IoT,GPS",Hard,96
+P072,EV Battery Management System,A system for monitoring and managing electric vehicle battery performance,Automobile Engineering,Electric Vehicles,"Python,IoT,Arduino,Sensors",Hard,97
+P073,Vehicle Fault Prediction System,A machine learning system that predicts vehicle component failures,Automobile Engineering,Automotive AI,"Python,Machine Learning,Pandas,Scikit-learn",Hard,95
+P074,Driver Drowsiness Detection,A computer vision system that detects driver fatigue and drowsiness,Automobile Engineering,Vehicle Safety,"Python,OpenCV,Computer Vision,Machine Learning",Hard,96
+P075,Vehicle Fuel Consumption Prediction,A predictive system that estimates fuel consumption based on vehicle parameters,Automobile Engineering,Automotive Analytics,"Python,Pandas,Scikit-learn,Machine Learning",Medium,88
+P076,Smart Vehicle Tracking System,A GPS-based system for tracking vehicle location and movement,Automobile Engineering,Vehicle IoT,"GPS,IoT,Python,ESP32",Medium,90
+P077,Tyre Pressure Monitoring System,A system that monitors tyre pressure and provides alerts for unsafe pressure levels,Automobile Engineering,Vehicle Safety,"Arduino,Pressure Sensor,IoT,Embedded C",Medium,91
+P078,EV Charging Optimization System,A system that optimizes electric vehicle charging schedules and energy usage,Automobile Engineering,Electric Vehicles,"Python,Optimization,IoT,Machine Learning",Hard,96
+P079,Vehicle Emission Prediction System,A machine learning system that predicts vehicle emission levels,Automobile Engineering,Environmental AI,"Python,Pandas,Machine Learning,Scikit-learn",Medium,90
+P080,Smart Parking Assistant,A system that helps drivers identify and navigate to available parking spaces,Automobile Engineering,Smart Mobility,"Python,IoT,Computer Vision,OpenCV",Medium,92
+
+P081,Crop Disease Detection System,A computer vision system that detects diseases in agricultural crops,Biotechnology,Agricultural AI,"Python,OpenCV,Machine Learning,Computer Vision",Hard,95
+P082,Drug Discovery Prediction System,A machine learning system that predicts promising drug candidates,Biotechnology,Bioinformatics,"Python,Machine Learning,Pandas,Scikit-learn",Hard,97
+P083,DNA Sequence Analysis System,A computational system for analyzing DNA sequences and identifying patterns,Biotechnology,Bioinformatics,"Python,BioPython,Data Analysis",Medium,89
+P084,Protein Structure Prediction,A computational model that predicts protein structural properties,Biotechnology,Bioinformatics,"Python,Machine Learning,BioPython",Hard,96
+P085,Plant Disease Classification,A machine learning system that classifies plant diseases from leaf images,Biotechnology,Computer Vision,"Python,OpenCV,Machine Learning",Medium,94
+P086,Bioinformatics Data Analysis System,A system for analyzing biological datasets and identifying meaningful patterns,Biotechnology,Bioinformatics,"Python,BioPython,Pandas,Data Science",Medium,91
+P087,Cancer Prediction System,A machine learning system that predicts cancer risk using medical datasets,Biotechnology,Healthcare AI,"Python,Pandas,Scikit-learn,Machine Learning",Hard,96
+P088,Genomic Data Classification,A machine learning system for classifying genomic data,Biotechnology,Genomics,"Python,Machine Learning,Pandas,Scikit-learn",Hard,94
+P089,Medical Image Analysis System,A computer vision system for analyzing medical images,Biotechnology,Medical AI,"Python,OpenCV,Machine Learning,Computer Vision",Hard,97
+P090,Personalized Medicine Recommendation,A data-driven system that supports personalized treatment recommendations,Biotechnology,Healthcare AI,"Python,Machine Learning,Pandas,Scikit-learn",Hard,95
+
+P091,Chemical Process Optimization,A system that optimizes industrial chemical production processes,Chemical Engineering,Process Optimization,"Python,Optimization,Machine Learning",Hard,91
+P092,Industrial Waste Prediction,A predictive system for estimating industrial chemical waste,Chemical Engineering,Environmental Engineering,"Python,Pandas,Machine Learning",Medium,88
+P093,Chemical Process Safety Monitoring,A system that monitors industrial process conditions and detects safety risks,Chemical Engineering,Industrial Safety,"Python,IoT,Sensors,Machine Learning",Hard,94
+P094,Production Quality Prediction,A machine learning system that predicts product quality during manufacturing,Chemical Engineering,Industrial AI,"Python,Pandas,Scikit-learn,Machine Learning",Hard,93
+P095,Chemical Plant Energy Optimization,A system that analyzes and optimizes energy usage in chemical plants,Chemical Engineering,Energy Optimization,"Python,Pandas,Optimization,Machine Learning",Hard,91
+P096,Industrial Temperature Prediction,A predictive system for monitoring and forecasting industrial temperatures,Chemical Engineering,Process Analytics,"Python,Machine Learning,Pandas",Medium,84
+P097,Chemical Equipment Failure Prediction,A machine learning system that predicts failures in industrial equipment,Chemical Engineering,Predictive Maintenance,"Python,Machine Learning,Scikit-learn,Pandas",Hard,94
+P098,Water Treatment Optimization,A system for optimizing industrial water treatment processes,Chemical Engineering,Environmental Engineering,"Python,Optimization,Data Analytics",Medium,87
+P099,Industrial Emission Prediction,A predictive system for estimating industrial emission levels,Chemical Engineering,Environmental AI,"Python,Pandas,Machine Learning",Medium,90
+P100,Smart Chemical Inventory System,A software system for tracking chemical materials inventory and usage,Chemical Engineering,Industrial Software,"Python,Flask,SQL,Data Analytics",Medium,82
+
+P101,Embedded Health Monitoring Device,An embedded system for monitoring basic health parameters,Electronics Engineering,Healthcare Electronics,"Arduino,Sensors,Embedded C,IoT",Medium,93
+P102,Smart Door Lock System,An electronic security system using password RFID or biometric authentication,Electronics Engineering,Embedded Security,"Arduino,RFID,Embedded C,Sensors",Medium,87
+P103,IoT Weather Station,An electronic station that measures temperature humidity pressure and other weather conditions,Electronics Engineering,IoT,"ESP32,Sensors,Python,IoT",Easy,90
+P104,Smart Irrigation Controller,An automated irrigation controller based on soil and weather conditions,Electronics Engineering,Smart Agriculture,"Arduino,Soil Sensor,IoT,Embedded C",Medium,92
+P105,Electronic Voting Machine Prototype,A secure embedded prototype for electronic voting,Electronics Engineering,Embedded Systems,"Arduino,Embedded C,LCD,Keypad",Medium,84
+P106,Smart Fire Alarm System,An electronic system that detects fire and smoke and generates alerts,Electronics Engineering,Security Systems,"Arduino,Smoke Sensor,GSM,Embedded C",Easy,86
+P107,IoT-Based Home Security System,A connected security system using sensors and remote alerts,Electronics Engineering,IoT Security,"ESP32,IoT,Sensors,Python",Medium,93
+P108,Smart Street Monitoring System,A sensor-based system for monitoring street environmental conditions,Electronics Engineering,Smart City,"ESP32,IoT,Sensors,Python",Medium,89
+P109,Digital Notice Board,A programmable electronic display for showing announcements and information,Electronics Engineering,Embedded Systems,"Arduino,LCD,Embedded C",Easy,76
+P110,Smart Electronic Attendance System,An electronic attendance system using RFID and microcontrollers,Electronics Engineering,Automation,"Arduino,RFID,Embedded C,IoT",Medium,85
+
+P111,Industrial Process Control System,A system for monitoring and controlling industrial processes,Instrumentation Engineering,Industrial Automation,"PLC,SCADA,Sensors,Embedded Systems",Hard,94
+P112,Smart Temperature Controller,An automated system for maintaining desired temperature in industrial environments,Instrumentation Engineering,Process Control,"Arduino,Temperature Sensor,Embedded C",Medium,85
+P113,Industrial Gas Monitoring System,A sensor system for detecting hazardous gases in industrial environments,Instrumentation Engineering,Industrial Safety,"Arduino,Gas Sensors,IoT,Embedded C",Hard,93
+P114,Water Quality Monitoring System,A system that monitors water quality parameters using sensors,Instrumentation Engineering,Environmental Monitoring,"Arduino,Sensors,IoT,Python",Medium,91
+P115,Automatic Level Control System,A system that automatically monitors and controls liquid levels in tanks,Instrumentation Engineering,Process Automation,"Arduino,Ultrasonic Sensor,Embedded C",Medium,84
+P116,Industrial Pressure Monitoring System,A system for monitoring pressure in industrial pipelines and equipment,Instrumentation Engineering,Industrial IoT,"Sensors,Arduino,IoT,Python",Medium,88
+P117,Smart Flow Measurement System,A system that measures and analyzes fluid flow in industrial pipelines,Instrumentation Engineering,Process Instrumentation,"Arduino,Flow Sensor,Embedded C,IoT",Medium,86
+P118,Industrial Vibration Monitoring,A system that monitors machine vibrations to identify abnormal conditions,Instrumentation Engineering,Predictive Maintenance,"Python,Sensors,Machine Learning,IoT",Hard,95
+P119,Automated Boiler Monitoring System,A monitoring system for industrial boiler temperature pressure and safety conditions,Instrumentation Engineering,Industrial Automation,"PLC,Sensors,SCADA,Embedded Systems",Hard,92
+P120,Smart Industrial Monitoring Dashboard,A dashboard that visualizes real-time industrial sensor measurements,Instrumentation Engineering,Industrial IoT,"Python,Streamlit,IoT,Pandas",Medium,90
+
+P121,Aircraft Fault Detection System,A machine learning system that predicts possible aircraft component failures,Aerospace Engineering,Predictive Maintenance,"Python,Machine Learning,Pandas,Scikit-learn",Hard,97
+P122,Drone Flight Monitoring System,A system for monitoring drone location altitude speed and flight status,Aerospace Engineering,Drone Technology,"Python,IoT,GPS,Embedded Systems",Hard,94
+P123,Aircraft Fuel Consumption Prediction,A predictive model for estimating aircraft fuel consumption,Aerospace Engineering,Aerospace Analytics,"Python,Pandas,Scikit-learn,Machine Learning",Medium,89
+P124,Drone-Based Object Detection,A computer vision system that detects objects using drone camera footage,Aerospace Engineering,Computer Vision,"Python,OpenCV,Machine Learning,Computer Vision",Hard,96
+P125,Aircraft Engine Health Monitoring,A predictive monitoring system for aircraft engine performance,Aerospace Engineering,Predictive Maintenance,"Python,Machine Learning,IoT,Pandas",Hard,97
+P126,Drone Path Planning System,A system that calculates efficient paths for autonomous drones,Aerospace Engineering,Robotics,"Python,Path Planning,Optimization,AI",Hard,95
+P127,Satellite Image Analysis System,A system that analyzes satellite images to identify geographical patterns,Aerospace Engineering,Remote Sensing,"Python,OpenCV,Machine Learning,Pandas",Hard,96
+P128,Air Traffic Prediction System,A system that predicts air traffic patterns using historical data,Aerospace Engineering,Data Science,"Python,Pandas,Machine Learning,Scikit-learn",Hard,92
+P129,Aircraft Structural Monitoring,A system for monitoring structural health using sensor data,Aerospace Engineering,Structural Monitoring,"Sensors,IoT,Python,Data Analytics",Hard,93
+P130,Weather-Based Flight Risk Prediction,A system that predicts potential flight risks based on weather conditions,Aerospace Engineering,AI Prediction,"Python,Pandas,Machine Learning,Scikit-learn",Hard,94
+
+P131,Crop Yield Prediction System,A machine learning system that predicts agricultural crop yields,Agricultural Engineering,Agricultural AI,"Python,Pandas,Scikit-learn,Machine Learning",Medium,96
+P132,Smart Irrigation System,An automated irrigation system based on soil moisture and weather conditions,Agricultural Engineering,Smart Agriculture,"Arduino,IoT,Sensors,Python",Medium,95
+P133,Soil Quality Prediction System,A system that predicts soil quality using environmental and soil parameters,Agricultural Engineering,Agricultural Analytics,"Python,Pandas,Machine Learning,Scikit-learn",Medium,92
+P134,Weather-Based Crop Recommendation,A recommendation system that suggests suitable crops based on environmental conditions,Agricultural Engineering,Agricultural AI,"Python,Pandas,Machine Learning,Scikit-learn",Medium,94
+P135,Fertilizer Recommendation System,A system that recommends suitable fertilizers based on soil and crop information,Agricultural Engineering,Precision Agriculture,"Python,Machine Learning,Pandas,Scikit-learn",Medium,93
+P136,Plant Disease Detection,A computer vision system that identifies crop diseases from plant images,Agricultural Engineering,Computer Vision,"Python,OpenCV,Machine Learning",Medium,96
+P137,Smart Greenhouse Monitoring,A system that monitors temperature humidity and environmental conditions in greenhouses,Agricultural Engineering,IoT Agriculture,"ESP32,Sensors,IoT,Python",Medium,94
+P138,Agricultural Drone Monitoring System,A drone-based system for monitoring crop health and agricultural fields,Agricultural Engineering,Drone Technology,"Python,Computer Vision,GPS,IoT",Hard,96
+P139,Farm Equipment Predictive Maintenance,A system that predicts agricultural equipment failures,Agricultural Engineering,Predictive Maintenance,"Python,Machine Learning,Pandas,Scikit-learn",Hard,91
+P140,Smart Crop Harvest Prediction,A system that predicts optimal crop harvesting time using environmental data,Agricultural Engineering,Agricultural Analytics,"Python,Pandas,Machine Learning",Medium,90
+
+P141,Heart Disease Risk Prediction,A machine learning system that predicts heart disease risk from patient data,Biomedical Engineering,Healthcare AI,"Python,Pandas,Scikit-learn,Machine Learning",Hard,97
+P142,ECG Signal Analysis System,A system for analyzing ECG signals and identifying abnormal patterns,Biomedical Engineering,Biomedical Signal Processing,"Python,NumPy,Signal Processing,Machine Learning",Hard,96
+P143,Patient Vital Monitoring System,A system that continuously monitors patient vital signs,Biomedical Engineering,Healthcare IoT,"Arduino,Sensors,IoT,Python",Medium,94
+P144,Medical Image Classification,A machine learning system that classifies medical images for disease detection,Biomedical Engineering,Medical AI,"Python,OpenCV,Machine Learning,Computer Vision",Hard,98
+P145,Blood Pressure Prediction System,A predictive model for estimating blood pressure from patient information,Biomedical Engineering,Healthcare Analytics,"Python,Pandas,Scikit-learn,Machine Learning",Medium,91
+P146,Diabetes Prediction System,A machine learning system that predicts diabetes risk using medical data,Biomedical Engineering,Healthcare AI,"Python,Pandas,Scikit-learn",Medium,94
+P147,Smart Medicine Reminder System,A system that reminds patients about medication schedules,Biomedical Engineering,Healthcare Technology,"Python,IoT,Arduino,Notifications",Easy,84
+P148,Patient Fall Detection System,A computer vision and sensor system that detects patient falls,Biomedical Engineering,Healthcare AI,"Python,OpenCV,Machine Learning,IoT",Hard,95
+P149,Medical Data Analysis Dashboard,A dashboard for analyzing and visualizing healthcare datasets,Biomedical Engineering,Healthcare Analytics,"Python,Pandas,Streamlit,Data Visualization",Medium,90
+P150,AI-Based Medical Diagnosis Assistant,An AI system that assists with preliminary disease prediction using patient information,Biomedical Engineering,Medical AI,"Python,NLP,Machine Learning,Scikit-learn",Hard,98
